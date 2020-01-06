@@ -349,3 +349,4 @@ yarn dev
 [device unauthorized]: https://stackoverflow.com/questions/23081263/adb-android-device-unauthorized
 [homebrew]: https://brew.sh
 [oracle being oracle]: https://github.com/Homebrew/homebrew-cask-versions/issues/7253
+echo ok
